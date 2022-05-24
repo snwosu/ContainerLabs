@@ -8,7 +8,7 @@ data:
   APPDYNAMICS_CONTROLLER_SSL_ENABLED: "false"
   EUM_HOST: "ec2-54-186-150-193.us-west-2.compute.amazonaws.com:7001"
   EUM_KEY: 467f1a9e-a73b-46b7-bede-c9caad8bb317
-  EVENT_ENDPOINT: "http://pstrainingapril20-2030-8f2wzhka.appd-sales.com:9080"
+  EVENT_ENDPOINT: "http://c2-54-186-150-193.us-west-2.compute.amazonaws.com:9080"
   FULL_ACCOUNT_NAME: customer1_f161f981-6f1f-4fa8-a6ad-2235b48bd549
 metadata:
   name: controller-info
